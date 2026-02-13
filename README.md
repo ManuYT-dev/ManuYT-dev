@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manuel
 
-<!--
-**ManuYT-dev/ManuYT-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programmer and IT student focused on building practical solutions and continuously improving my skills.
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about software development
+- Currently studying Information Technology
+- Strong in Python
+- Good knowledge of C# and Lua
+- Interested in clean code and efficient systems
+- Always learning and building new projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+To grow as a developer, contribute to meaningful projects, and turn ideas into real-world applications.
+
+---
+
+> "Consistency beats intensity."

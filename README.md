@@ -18,8 +18,8 @@ Programmer and IT student focused on building practical solutions and continuous
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuYT-dev&show_icons=true&theme=dark&hide_border=true" alt="Manuel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuYT-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ManuYT-dev&show_icons=true&theme=dark&hide_border=true" alt="Manuel's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ManuYT-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🎯 Goals
